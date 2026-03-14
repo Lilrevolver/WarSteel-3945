@@ -47,7 +47,7 @@ The compiled `.jar` will be in `build/libs/`
 
 ## 👥 Team
 
-**Founder** — @Lilrevo and @Camaooo
+**Owner** — @Lilrevo and @Camaooo
 
 **Contributer**
 
